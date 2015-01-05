@@ -111,8 +111,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:013507_0000_0F90A2D17AB05A60"/>
-            <pb facs="tcp:013507_0001_0F90A2D2271A6FE0" rendition="simple:additions"/>
+            <pb facs="unknown:013507_0000_0F90A2D17AB05A60"/>
+            <pb facs="unknown:013507_0001_0F90A2D2271A6FE0"
+                rendition="simple:additions"/>
             <p>A CHOICE COLLECTION OF HYMNS AND Spiritual SONGS; Intended for the Edification of ſincere Chriſtians, of all Denominations.</p>
             <p>BY SAMSON OCCOM, MINISTER OF THE GOSPEL.</p>
             <q>
@@ -122,18 +123,18 @@
             <p>NEW-LONDON: PRINTED and SOLD by TIMOTHY GREEN, a few Rods Weſt of the COURT-HOUSE. M,DCC,LXXIV.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:013507_0002_0F90A312A5501FC0"/>
+            <pb facs="unknown:013507_0002_0F90A312A5501FC0"/>
             <head>THE PREFACE.</head>
             <p>
                <seg rend="decorInit">T</seg>HERE is great Engagedneſs, in theſe Colonies, to cultivate PSALMODY; and I believe it to be the Duty of Chriſti<g ref="char:EOLhyphen"/>ans to learn the Songs of Zion, accor<g ref="char:EOLhyphen"/>ding to good Method or Rule; but the People ought not to be contented with the outward Form of Singing, but ſhould ſeek after the <hi>inward</hi> Part:—There are two Parts of Singing as St. Paul informs us, in 1 Cor. 14.15. <hi>(I will ſing with the</hi> Spirit, <hi>and I will ſing with the</hi> Underſtanding <hi>alſo.)</hi> To ſing without the Spirit, (though with good Method) is like the Sound of a muſical Inſtrument without Life. To ſing with the Spirit, I underſtand Paul further to mean, to ſing with ſpiritual Matter: And thus when we ſing with the Underſtanding or Method, and with ſpiritual Matter, by the Influence of God's Spirit, we ſing agreeable to God's Mind. St. Paul exhorts, in Col. 3.16. <hi>Let the Word of Chriſt dwell in you richly in all Wiſdom; teaching and admoniſhing one another in Pſalms and Hymns, and ſpiritual Songs, ſinging with Grace in your Hearts to the Lord.</hi> The Songs of Zion, when they are ſung with the Spirit of the Goſpel, are very comforting, refreſhing, and edifying to the Chil<g ref="char:EOLhyphen"/>dren of God—convincing to a carnal Wold—well-pleaſing
-<pb n="4" facs="tcp:013507_0003_0F90A31375506830"/>
+<pb n="4" facs="unknown:013507_0003_0F90A31375506830"/>
 to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am wil<g ref="char:EOLhyphen"/>ling to contribute ſomething towards promoting it. For this End I have taken no ſmall Pains to col<g ref="char:EOLhyphen"/>lect a Number of choice Hymns, Pſalms, and ſpiritual Songs, from a Number of Authors of dif<g ref="char:EOLhyphen"/>ferent Denominations of Chriſtians, that every Chriſtian may be ſuited. I have, in the firſt Place, choſe out ſome awakening and moſt alarm<g ref="char:EOLhyphen"/>ing Hymns, next to them penitential, then invi<g ref="char:EOLhyphen"/>ting, and then conſolating Hymns, and the laſt Part contains Hymns of the Birth, Death, Reſur<g ref="char:EOLhyphen"/>rection and Aſcenſion of Chriſt, and his Appea<g ref="char:EOLhyphen"/>rance in the laſt Great Day. Theſe Hymns are in various Metres, and eſpecially the laſt Part are of uncommon Meaſures, for new Tunes and new Singers.</p>
             <p>Here I preſent you, O Chriſtians, of what De<g ref="char:EOLhyphen"/>nomination ſoever, with cordial Hymns, to com<g ref="char:EOLhyphen"/>fort you in your weary Pilgrimage; I hope they will aſſiſt and ſtrengthen you through the various Changes of this Life, till you ſhall all ſafely arrive to the general Aſſembly Above, and Church of the Firſt-Born, where you ſhall have no more need of theſe imperfect Hymns; but ſhall per<g ref="char:EOLhyphen"/>fectly join the Songs of Moſes and the Lamb; where all your imperfect Services ſhall forever be at an End; and you ſhall have open and full Viſion and Fruition of GOD and the LAMB; where you ſhall ſit down in perfect Harmony with Abraham, Iſaac and Jacob, and with all the Saints and Angels in the New-Jeruſalem; where all Sorrow, Grief, Trouble and Pain ſhall forever ceaſe, and all Tears wiped away from your Eyes.</p>
          </div>
       </front>
       <body>
          <div type="songs">
-            <pb n="5" facs="tcp:013507_0004_0F90A3149A8951D8"/>
+            <pb n="5" facs="unknown:013507_0004_0F90A3149A8951D8"/>
             <head>A CHOICE COLLECTION OF HYMNS, &amp;c.</head>
             <div n="1" type="hymn">
                <head>
@@ -160,7 +161,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Or bear the Fury of a GOD?</l>
                </lg>
                <lg n="4">
-                  <pb n="6" facs="tcp:013507_0005_0F90A3152B7ED3A0"/>
+                  <pb n="6" facs="unknown:013507_0005_0F90A3152B7ED3A0"/>
                   <head>4</head>
                   <l>Tremble ye Sinners and ſubmit;</l>
                   <l>Throw down your Arms before his Throne,</l>
@@ -214,7 +215,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>From this incenſed King.</l>
                </lg>
                <lg n="6">
-                  <pb n="7" facs="tcp:013507_0006_0F90A316CF63E930"/>
+                  <pb n="7" facs="unknown:013507_0006_0F90A316CF63E930"/>
                   <head>6</head>
                   <l>Should he but his Commiſſion grant,</l>
                   <l>All Creatures would engage</l>
@@ -268,7 +269,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Than I was to obey:</l>
                </lg>
                <lg n="6">
-                  <pb n="8" facs="tcp:013507_0007_0F90A3172BB9AA20"/>
+                  <pb n="8" facs="unknown:013507_0007_0F90A3172BB9AA20"/>
                   <head>6</head>
                   <l>Or, if at Times he left my Soul,</l>
                   <l>Yet ſtill his Work went on:</l>
@@ -323,7 +324,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>We were expos'd to wrath.</l>
                </lg>
                <lg n="5">
-                  <pb n="9" facs="tcp:013507_0008_0F90A319CE1B0DB0"/>
+                  <pb n="9" facs="unknown:013507_0008_0F90A319CE1B0DB0"/>
                   <head>5</head>
                   <l>At laſt a Meſſenger of Peace,</l>
                   <l>Evangeliſt by Name,</l>
@@ -377,7 +378,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>And Thunder roars along.</l>
                </lg>
                <lg n="4">
-                  <pb n="10" facs="tcp:013507_0009_0F90A31B5B6FAA98"/>
+                  <pb n="10" facs="unknown:013507_0009_0F90A31B5B6FAA98"/>
                   <head>4</head>
                   <l>Think, O my Soul! the dreadful Day,</l>
                   <l>When this incenſed GOD,</l>
@@ -433,7 +434,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Yet wait for fiercer Pain.</l>
                </lg>
                <lg n="5">
-                  <pb n="11" facs="tcp:013507_0010_0F90A31D348674F8"/>
+                  <pb n="11" facs="unknown:013507_0010_0F90A31D348674F8"/>
                   <head>5</head>
                   <l>Not all their Anguiſh and their Blood,</l>
                   <l>For their old guilt atones,</l>
@@ -487,7 +488,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>But they incens'd a dreadful God.</l>
                </lg>
                <lg n="6">
-                  <pb n="12" facs="tcp:013507_0011_0F90A31DE3882548"/>
+                  <pb n="12" facs="unknown:013507_0011_0F90A31DE3882548"/>
                   <head>6</head>
                   <l>Tremble my Soul, and kiſs the Son;</l>
                   <l>Sinner, obey thy Saviour's call;</l>
@@ -542,7 +543,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="9" type="hymn">
-               <pb n="13" facs="tcp:013507_0012_0F90A31EA0557F10"/>
+               <pb n="13" facs="unknown:013507_0012_0F90A31EA0557F10"/>
                <head>
                   <hi>HYMN IX.</hi> The Sinner's Shame and Confuſion.</head>
                <lg>
@@ -588,7 +589,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Ah, what a Beaſt I am?</l>
                </lg>
                <lg n="8">
-                  <pb n="14" facs="tcp:013507_0013_0F90A31FCD9543B0"/>
+                  <pb n="14" facs="unknown:013507_0013_0F90A31FCD9543B0"/>
                   <head>8.</head>
                   <l>The Crown is fallen from my Head,</l>
                   <l>My royal Robes are gone;</l>
@@ -642,7 +643,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Here ſets in Death my ſhort liv'd Day.</l>
                </lg>
                <lg n="4">
-                  <pb n="15" facs="tcp:013507_0014_0F90A320432052D0"/>
+                  <pb n="15" facs="unknown:013507_0014_0F90A320432052D0"/>
                   <head>4.</head>
                   <l>When thou for Sin rebukeſt Man,</l>
                   <l>His drooping Heart is fill'd with Pain;</l>
@@ -703,7 +704,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="12" type="hymn">
-               <pb n="16" facs="tcp:013507_0015_0F90A321C8493358"/>
+               <pb n="16" facs="unknown:013507_0015_0F90A321C8493358"/>
                <head>
                   <hi>HYMN XII.</hi> All Men undone by Sin.</head>
                <lg n="1">
@@ -756,7 +757,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>And labour'd in the purging Fire.</l>
                </lg>
                <lg n="8">
-                  <pb n="17" facs="tcp:013507_0016_0F90A32261B3B368"/>
+                  <pb n="17" facs="unknown:013507_0016_0F90A32261B3B368"/>
                   <head>8.</head>
                   <l>Frail, dark, impure I ſtill remain,</l>
                   <l>Nor hope to break my Nature's Chain;</l>
@@ -810,7 +811,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>My Grace ſhall make the Burden light.</l>
                </lg>
                <lg n="4">
-                  <pb n="18" facs="tcp:013507_0017_0F90A32407E26AD8"/>
+                  <pb n="18" facs="unknown:013507_0017_0F90A32407E26AD8"/>
                   <head>4.</head>
                   <l>Jeſus we come at thy Command,</l>
                   <l>With Faith and Hope, and humble Zeal,</l>
@@ -860,7 +861,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                <head>
                   <hi>HYMN XV.</hi> INVITATION.</head>
                <lg n="1">
-                  <pb n="19" facs="tcp:013507_0018_0F90A3256A56EDA0"/>
+                  <pb n="19" facs="unknown:013507_0018_0F90A3256A56EDA0"/>
                   <head>1.</head>
                   <l>SINNERS, obey the goſpel Word;</l>
                   <l>Haſte to the Supper of your Lord<g ref="char:punc">▪</g>
@@ -915,7 +916,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>From Pardon, Holineſs, and Heaven.</l>
                </lg>
                <lg n="3">
-                  <pb n="20" facs="tcp:013507_0019_0F90A3262BEC6E38"/>
+                  <pb n="20" facs="unknown:013507_0019_0F90A3262BEC6E38"/>
                   <head>3.</head>
                   <l>Come then ye Souls by Sin oppreſt,</l>
                   <l>Ye weary wanderers after Reſt:</l>
@@ -969,7 +970,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>To ſee the Wand'rer come.</l>
                </lg>
                <lg n="4">
-                  <pb n="21" facs="tcp:013507_0020_0F90A327B3AEA6E0"/>
+                  <pb n="21" facs="unknown:013507_0020_0F90A327B3AEA6E0"/>
                   <head>4.</head>
                   <l>Jeſus with open Arms,</l>
                   <l>Him freely doth embrace;</l>
@@ -1026,7 +1027,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>And all his Soul is Love.</l>
                </lg>
                <lg n="12">
-                  <pb n="22" facs="tcp:013507_0021_0F90A3286C195650"/>
+                  <pb n="22" facs="unknown:013507_0021_0F90A3286C195650"/>
                   <head>12.</head>
                   <l>He leans on Jeſus' Breaſt,</l>
                   <l>Forgetting all his Pain;</l>
@@ -1080,7 +1081,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>In tender Mercy own.</l>
                </lg>
                <lg n="6">
-                  <pb n="23" facs="tcp:013507_0022_0F90A3292368C9F0"/>
+                  <pb n="23" facs="unknown:013507_0022_0F90A3292368C9F0"/>
                   <head>6.</head>
                   <l>O Sinners! here Example take,</l>
                   <l>To ply the Throne of Grace:</l>
@@ -1131,7 +1132,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>And bounteous are his Hands.</l>
                </lg>
                <lg n="3">
-                  <pb n="24" facs="tcp:013507_0023_0F90A329F00E8550"/>
+                  <pb n="24" facs="unknown:013507_0023_0F90A329F00E8550"/>
                   <head>3.</head>
                   <l>I'll go and with a mournful Tongue,</l>
                   <l>Fall down before his Face;</l>
@@ -1185,7 +1186,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>The glorious ſuff'rer ſtood!</l>
                </lg>
                <lg n="3">
-                  <pb n="25" facs="tcp:013507_0024_0F90A32AAB4F43D8"/>
+                  <pb n="25" facs="unknown:013507_0024_0F90A32AAB4F43D8"/>
                   <head>3.</head>
                   <l>Was it for Crimes that I had done</l>
                   <l>He groan'd upon the Tree?</l>
@@ -1239,7 +1240,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>And bid your ſlaviſh Fears depart.</l>
                </lg>
                <lg n="4">
-                  <pb n="26" facs="tcp:013507_0025_0F90A32B80834578"/>
+                  <pb n="26" facs="unknown:013507_0025_0F90A32B80834578"/>
                   <head>4.</head>
                   <l>O quit the World's deluſive Charms,</l>
                   <l>And quickly fly to Jeſus' Arms;</l>
@@ -1287,7 +1288,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="24" type="hymn">
-               <pb n="27" facs="tcp:013507_0026_0F90A32EDE795888"/>
+               <pb n="27" facs="unknown:013507_0026_0F90A32EDE795888"/>
                <head>
                   <hi>HYMN XXIV.</hi> Joy in the HOLY GHOST.</head>
                <lg n="1">
@@ -1340,7 +1341,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>As Worldlings do not know.</l>
                </lg>
                <lg n="8">
-                  <pb n="28" facs="tcp:013507_0027_0F90A33062025C20"/>
+                  <pb n="28" facs="unknown:013507_0027_0F90A33062025C20"/>
                   <head>8.</head>
                   <l>Eye hath not ſeen, nor Ear hath heard,</l>
                   <l>From Fancy 'tis conceal'd,</l>
@@ -1397,7 +1398,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Chear'd by thy Saviour's Sorrows riſe;</l>
                   <l>He griev'd, that thou may'ſt ceaſe to grieve:</l>
                   <l>
-                     <pb n="29" facs="tcp:013507_0028_0F90A331D41EAA50"/>Dry with his burial Cloaths thine Eyes;</l>
+                     <pb n="29" facs="unknown:013507_0028_0F90A331D41EAA50"/>Dry with his burial Cloaths thine Eyes;</l>
                   <l>He dy'd Himſelf that thou may'ſt live.</l>
                </lg>
             </div>
@@ -1444,7 +1445,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Nothing do I know: The Way</l>
                   <l>Of Peace I cannot find.</l>
                   <l>
-                     <pb n="30" facs="tcp:013507_0029_0F90A3322FE8CD10"/>Jeſus, Lord reſtore my Sight,</l>
+                     <pb n="30" facs="unknown:013507_0029_0F90A3322FE8CD10"/>Jeſus, Lord reſtore my Sight,</l>
                   <l>And take, O take the Vail away;</l>
                   <l>Turn my Darkneſs into Light,</l>
                   <l>My Midnight into Day.</l>
@@ -1494,7 +1495,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Out-caſts of Men, to you I call,</l>
                   <l>Harlots and Publicans and Thieves!</l>
                   <l>
-                     <pb n="31" facs="tcp:013507_0030_0F90A3330146A900"/>He ſpreads his Arms, t' embrace you all!</l>
+                     <pb n="31" facs="unknown:013507_0030_0F90A3330146A900"/>He ſpreads his Arms, t' embrace you all!</l>
                   <l>Sinners alone his Grace receives.</l>
                   <l>No need of him the Righteous have,</l>
                   <l>He came the Loſt to ſeek and ſave.</l>
@@ -1545,7 +1546,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>On this ſide Zion's Hill?</l>
                </lg>
                <lg n="3">
-                  <pb n="32" facs="tcp:013507_0031_0F90A333A9499868"/>
+                  <pb n="32" facs="unknown:013507_0031_0F90A333A9499868"/>
                   <head>3</head>
                   <l>Yet lo! I hear the joyful ſound,</l>
                   <l>Surely I quickly come!</l>
@@ -1603,7 +1604,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="29" type="hymn">
-               <pb n="33" facs="tcp:013507_0032_0F90A33481086F50"/>
+               <pb n="33" facs="unknown:013507_0032_0F90A33481086F50"/>
                <head>
                   <hi>HYMN XXIX.</hi> Praiſe for the Peace of Conſcience.</head>
                <lg n="1">
@@ -1656,7 +1657,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Found Fire as meek as Air.</l>
                </lg>
                <lg n="8">
-                  <pb n="34" facs="tcp:013507_0033_0F90A3352503C4E0"/>
+                  <pb n="34" facs="unknown:013507_0033_0F90A3352503C4E0"/>
                   <head>8</head>
                   <l>So is my Mem'ry ſtuffed with Sin,</l>
                   <l>Enough to make an Hell;</l>
@@ -1710,7 +1711,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>And ſheds ſweet Glories on them all.</l>
                </lg>
                <lg n="5">
-                  <pb n="35" facs="tcp:013507_0034_0F90A33646A89ED0"/>
+                  <pb n="35" facs="unknown:013507_0034_0F90A33646A89ED0"/>
                   <head>5</head>
                   <l>O what amazing Joys they feel,</l>
                   <l>While to their golden Harps they ſing,</l>
@@ -1765,7 +1766,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="32" type="hymn">
-               <pb n="36" facs="tcp:013507_0035_0F90A337D28BD938"/>
+               <pb n="36" facs="unknown:013507_0035_0F90A337D28BD938"/>
                <head>
                   <hi>HYMN XXXII.</hi> The Church a Garden.</head>
                <lg n="1">
@@ -1815,7 +1816,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>And face a frowning World.</l>
                </lg>
                <lg n="3">
-                  <pb n="37" facs="tcp:013507_0036_0F90A338796F1060"/>
+                  <pb n="37" facs="unknown:013507_0036_0F90A338796F1060"/>
                   <head>3</head>
                   <l>Let Cares like a wild Deluge come,</l>
                   <l>And Storms of Sorrow fall;</l>
@@ -1869,7 +1870,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>With unbeclouded Eyes!</l>
                </lg>
                <lg n="6">
-                  <pb n="38" facs="tcp:013507_0037_0F90A33A0289C7C0"/>
+                  <pb n="38" facs="unknown:013507_0037_0F90A33A0289C7C0"/>
                   <head>6</head>
                   <l>Could we but climb where Moſes ſtood,</l>
                   <l>And view the Landſkip o'er,</l>
@@ -1931,7 +1932,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   </l>
                </lg>
                <lg n="7">
-                  <pb n="39" facs="tcp:013507_0038_0F90A33A61F5F840"/>
+                  <pb n="39" facs="unknown:013507_0038_0F90A33A61F5F840"/>
                   <head>7</head>
                   <l>This is the Man, th' exalted Man,</l>
                   <l>Whom we unſeen adore;</l>
@@ -1985,7 +1986,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Is everlaſting Day.</l>
                </lg>
                <lg n="7">
-                  <pb n="40" facs="tcp:013507_0039_0F90A33CD6846F50"/>
+                  <pb n="40" facs="unknown:013507_0039_0F90A33CD6846F50"/>
                   <head>7</head>
                   <l>By glimm'ring Hopes, and gloomy Fears,</l>
                   <l>We trace the ſacred Road,</l>
@@ -2039,7 +2040,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Soon their Happineſs ſhall ſee.</l>
                </lg>
                <lg n="3">
-                  <pb n="41" facs="tcp:013507_0040_0F90A33E44A61FE0"/>
+                  <pb n="41" facs="unknown:013507_0040_0F90A33E44A61FE0"/>
                   <head>3</head>
                   <l>O, ye baniſh'd Seed be glad!</l>
                   <l>Chriſt our Advocate is made:</l>
@@ -2094,7 +2095,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="39" type="hymn">
-               <pb n="42" facs="tcp:013507_0041_0F90A33EE596D550"/>
+               <pb n="42" facs="unknown:013507_0041_0F90A33EE596D550"/>
                <head>
                   <hi>HYMN XXXIX.</hi> A Dialogue between Pilgrims.</head>
                <sp>
@@ -2168,7 +2169,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   </lg>
                </sp>
                <sp>
-                  <pb n="43" facs="tcp:013507_0042_0F90A33FAE1C6D98"/>
+                  <pb n="43" facs="unknown:013507_0042_0F90A33FAE1C6D98"/>
                   <speaker>WOMEN.</speaker>
                   <lg n="8">
                      <head>8</head>
@@ -2231,7 +2232,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>He calls us to this Fold.</l>
                </lg>
                <lg>
-                  <pb n="44" facs="tcp:013507_0043_0F90A34063B9A140"/>
+                  <pb n="44" facs="unknown:013507_0043_0F90A34063B9A140"/>
                   <l>We ſee him with his Raiment red,</l>
                   <l>As tho' beſmear'd with Blood,</l>
                   <l>As newly ſlain he ſtands; he bled,</l>
@@ -2279,7 +2280,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="42" type="hymn">
-               <pb n="45" facs="tcp:013507_0044_0F90A341B0E08ED8"/>
+               <pb n="45" facs="unknown:013507_0044_0F90A341B0E08ED8"/>
                <head>
                   <hi>HYMN XLII.</hi> Chriſt worthy of all Praiſe.</head>
                <lg n="1">
@@ -2333,7 +2334,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="43" type="hymn">
-               <pb n="46" facs="tcp:013507_0045_0F90A3422AF53CF8"/>
+               <pb n="46" facs="unknown:013507_0045_0F90A3422AF53CF8"/>
                <head>
                   <hi>HYMN XLIII.</hi> THANKSGIVING.</head>
                <lg n="1">
@@ -2383,7 +2384,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>The Dignity of Man.</l>
                </lg>
                <lg n="3">
-                  <pb n="47" facs="tcp:013507_0046_0F90A343AF8A3A20"/>
+                  <pb n="47" facs="unknown:013507_0046_0F90A343AF8A3A20"/>
                   <head>3</head>
                   <l>To whom Iſaiah's Viſion ſhow'd,</l>
                   <l>The Seraph's veil their Wings,</l>
@@ -2440,7 +2441,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>The gladſome Place of Reſt above.</l>
                </lg>
                <lg n="4">
-                  <pb n="48" facs="tcp:013507_0047_0F90A3442D471850"/>
+                  <pb n="48" facs="unknown:013507_0047_0F90A3442D471850"/>
                   <head>4</head>
                   <l>I come, my Lord, the Floods here riſe;</l>
                   <l>Theſe troubled Seas Foam nought but mire<g ref="char:punc">▪</g>
@@ -2496,7 +2497,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>The World is not appriz'd.</l>
                </lg>
                <lg n="4">
-                  <pb n="49" facs="tcp:013507_0048_0F90A3471DB197D0"/>
+                  <pb n="49" facs="unknown:013507_0048_0F90A3471DB197D0"/>
                   <head>4</head>
                   <l>But ſome of them ſeem poor diſtreſt,</l>
                   <l>And lacking daily Bread;</l>
@@ -2546,7 +2547,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Doth our Redeemer uſe,</l>
                   <l>To teach his heavenly Grace:</l>
                   <l>
-                     <pb n="50" facs="tcp:013507_0049_0F90A348D580F1A0"/>My Soul, with Joy</l>
+                     <pb n="50" facs="unknown:013507_0049_0F90A348D580F1A0"/>My Soul, with Joy</l>
                   <l>And Wonder ſee,</l>
                   <l>What Forms of Love</l>
                   <l>He bears for Thee.</l>
@@ -2594,7 +2595,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>I on my beſt Beloved lean,</l>
                   <l>Then I am never ill:</l>
                   <l>
-                     <pb n="51" facs="tcp:013507_0050_0F90A34A4DC1F130"/>Croſſes and Trials all are ſlight,</l>
+                     <pb n="51" facs="unknown:013507_0050_0F90A34A4DC1F130"/>Croſſes and Trials all are ſlight,</l>
                   <l>And Pain is ſweet, and Troubles light,</l>
                   <l>Come whatſoever will.</l>
                </lg>
@@ -2641,7 +2642,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>With heavenly Ray.</l>
                </lg>
                <lg n="2">
-                  <pb n="52" facs="tcp:013507_0051_0F90A34AED1F3560"/>
+                  <pb n="52" facs="unknown:013507_0051_0F90A34AED1F3560"/>
                   <head>2</head>
                   <l>Now ſhall my chearful Steps attend</l>
                   <l>The Worſhip of his holy Place;</l>
@@ -2690,7 +2691,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Heavenly Salem! royal Nurſe</l>
                   <l>To thy young Converts ſeated round;</l>
                   <l>
-                     <pb n="53" facs="tcp:013507_0052_0F90A34BA9910590"/>While theſe are chear'd with heavenly Grace,</l>
+                     <pb n="53" facs="unknown:013507_0052_0F90A34BA9910590"/>While theſe are chear'd with heavenly Grace,</l>
                   <l>May Peace indulge the happy Ground,</l>
                   <l>And every Bliſs</l>
                   <l>Enjoy'd below,</l>
@@ -2737,7 +2738,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Why does the King approach our Land,</l>
                   <l>Comes he with Thunder in his Hand?</l>
                   <l>
-                     <pb n="54" facs="tcp:013507_0053_0F90A34C6544C198"/>The Merit of our Crimes,</l>
+                     <pb n="54" facs="unknown:013507_0053_0F90A34C6544C198"/>The Merit of our Crimes,</l>
                   <l>Shepherds be glad, he comes with Peace,</l>
                   <l>Not Wrath, but univerſal Grace,</l>
                   <l>To bleſs ev'n diſtant Climes.</l>
@@ -2786,7 +2787,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="52" type="hymn">
-               <pb n="55" facs="tcp:013507_0054_0F90A34D2224F780"/>
+               <pb n="55" facs="unknown:013507_0054_0F90A34D2224F780"/>
                <head>
                   <hi>HYMN LII.</hi> The Counſels of Grace, a Carol.</head>
                <lg n="1">
@@ -2833,7 +2834,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Th' Almighty Radiance ſmil'd Aſſent,</l>
                   <l>Loud was the Shout that Ether rent,</l>
                   <l>
-                     <pb n="56" facs="tcp:013507_0055_0F90A34DFB541C40"/>All Heav'n was in Amaze!</l>
+                     <pb n="56" facs="unknown:013507_0055_0F90A34DFB541C40"/>All Heav'n was in Amaze!</l>
                   <l>Go my lov'd Image, ſaid the Sire,</l>
                   <l>Be born, in Anguiſh to expire,</l>
                   <l>Earth triumph, Angels ſtrike the Lyre,</l>
@@ -2880,7 +2881,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Or equal Praiſe beſtow.</l>
                </lg>
                <lg n="5">
-                  <pb n="57" facs="tcp:013507_0056_0F90A3512EC7E808"/>
+                  <pb n="57" facs="unknown:013507_0056_0F90A3512EC7E808"/>
                   <head>5</head>
                   <l>Redemption 'tis a boundleſs Theme!</l>
                   <l>Thou boundleſs Mind, our Hearts inflame,</l>
@@ -2930,7 +2931,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>My Saviour ſee.</l>
                </lg>
                <lg n="6">
-                  <pb n="58" facs="tcp:013507_0057_0F90A352C96F2170"/>
+                  <pb n="58" facs="unknown:013507_0057_0F90A352C96F2170"/>
                   <head>VI</head>
                   <l>Then welcome harmleſs Grave, by thee to Heav'n I'll go,</l>
                   <l>My Lord, his Death ſhall ſave me from the Flames below.</l>
@@ -2975,7 +2976,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="56" type="hymn">
-               <pb n="59" facs="tcp:013507_0058_0F90A35451BCC198"/>
+               <pb n="59" facs="unknown:013507_0058_0F90A35451BCC198"/>
                <head>
                   <hi>HYMN LVI.</hi> Boldneſs in the Goſpel.</head>
                <lg n="1">
@@ -3028,7 +3029,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>To ſnatch them from the gaping Grave.</l>
                </lg>
                <lg n="8">
-                  <pb n="60" facs="tcp:013507_0059_0F90A354A9971840"/>
+                  <pb n="60" facs="unknown:013507_0059_0F90A354A9971840"/>
                   <head>8</head>
                   <l>For this let Men revile my Name,</l>
                   <l>No Croſs I ſhun, I fear no Shame;</l>
@@ -3081,7 +3082,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Whilſt I that Coaſt explore<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="61" facs="tcp:013507_0060_0F90A3556B7D9738"/>Flatt'ring World, with all thy Snares,</l>
+                     <pb n="61" facs="unknown:013507_0060_0F90A3556B7D9738"/>Flatt'ring World, with all thy Snares,</l>
                   <l>Sollicit me no more.</l>
                   <l>Pilgrims ſix not here their Home;</l>
                   <l>Strangers tarry but a Night,</l>
@@ -3128,7 +3129,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>I burn with ſtrong Deſires:</l>
                   <l>With holy Aim,</l>
                   <l>
-                     <pb n="62" facs="tcp:013507_0061_0F90A35625876C00"/>And inward Flame,</l>
+                     <pb n="62" facs="unknown:013507_0061_0F90A35625876C00"/>And inward Flame,</l>
                   <l>I feel my Soul on Fire,</l>
                </lg>
                <lg n="4">
@@ -3179,7 +3180,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="60" type="hymn">
-               <pb n="63" facs="tcp:013507_0062_0F90A357B0769DC0"/>
+               <pb n="63" facs="unknown:013507_0062_0F90A357B0769DC0"/>
                <head>
                   <hi>HYMN LX.</hi> The Birth of Jeſus.</head>
                <lg n="1">
@@ -3229,7 +3230,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>His holy Breaſt inſpire.</l>
                </lg>
                <lg n="3">
-                  <pb n="64" facs="tcp:013507_0063_0F90A3586849A8E0"/>
+                  <pb n="64" facs="unknown:013507_0063_0F90A3586849A8E0"/>
                   <head>3</head>
                   <l>He comes the Pris'ners to releaſe,</l>
                   <l>In Satan's Bondage held:</l>
@@ -3279,7 +3280,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Late in Time behold him come,</l>
                   <l>Offspring of a Virgin's Womb:</l>
                   <l>
-                     <pb n="65" facs="tcp:013507_0064_0F90A35925975638"/>Veil'd in Fleſh, the Godhead ſee,</l>
+                     <pb n="65" facs="unknown:013507_0064_0F90A35925975638"/>Veil'd in Fleſh, the Godhead ſee,</l>
                   <l>Hail th' incarnate Deity!</l>
                   <l>Pleas'd as Man with Men t' appear,</l>
                   <l>Jeſus, our Immanuel here.</l>
@@ -3329,7 +3330,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>My Lord my Love is crucify'd,</l>
                </lg>
                <lg n="3">
-                  <pb n="66" facs="tcp:013507_0065_0F90A35A9325D330"/>
+                  <pb n="66" facs="unknown:013507_0065_0F90A35A9325D330"/>
                   <head>3</head>
                   <l>Is crucify'd for me and you,</l>
                   <l>To bring us Rebels back to God;</l>
@@ -3378,7 +3379,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>See, as Snow his Garments white,</l>
                   <l>His Countenance as Lightning bright;</l>
                   <l>
-                     <pb n="67" facs="tcp:013507_0066_0F90A35AAB8F13C8"/>He ſits, and waves a flaming Sword,</l>
+                     <pb n="67" facs="unknown:013507_0066_0F90A35AAB8F13C8"/>He ſits, and waves a flaming Sword,</l>
                   <l>And waits upon his riſing Lord:</l>
                   <l>The third auſpicious Morn is come,</l>
                   <l>And call the Saviour from the Tomb;</l>
@@ -3423,7 +3424,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Harbinger of human Race.</l>
                </lg>
                <lg n="3">
-                  <pb n="68" facs="tcp:013507_0067_0F90A35B62338DE0"/>
+                  <pb n="68" facs="unknown:013507_0067_0F90A35B62338DE0"/>
                   <head>3</head>
                   <l>Maſter (may we ever ſay)</l>
                   <l>Taken from our Head to Day;</l>
@@ -3472,7 +3473,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Thy Bood was ſhed for me!</l>
                </lg>
                <lg n="3">
-                  <pb n="69" facs="tcp:013507_0068_0F90A35ED793DF98"/>
+                  <pb n="69" facs="unknown:013507_0068_0F90A35ED793DF98"/>
                   <head>3</head>
                   <l>Without Money, without Price,</l>
                   <l>I come thy Love to buy;</l>
@@ -3516,7 +3517,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="68" type="hymn">
-               <pb n="70" facs="tcp:013507_0069_0F90A36038426B88"/>
+               <pb n="70" facs="unknown:013507_0069_0F90A36038426B88"/>
                <head>HYMN LXVIII. ANOTHER.</head>
                <lg n="1">
                   <head>1</head>
@@ -3561,7 +3562,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>A thouſand Drops of richer Blood.</l>
                </lg>
                <lg n="2">
-                  <pb n="71" facs="tcp:013507_0070_0F90A360A67E5EC0"/>
+                  <pb n="71" facs="unknown:013507_0070_0F90A360A67E5EC0"/>
                   <head>2</head>
                   <l>Here's Love and Grief beyond Degree,</l>
                   <l>The Lord of Glory dies for Men!</l>
@@ -3610,7 +3611,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Let not Conſcience make you linger,</l>
                   <l>Nor of Fitneſs fondly dream,</l>
                   <l>
-                     <pb n="72" facs="tcp:013507_0071_0F90A36172F75148"/>All the Fitneſs he requireth,</l>
+                     <pb n="72" facs="unknown:013507_0071_0F90A36172F75148"/>All the Fitneſs he requireth,</l>
                   <l>Is to feel your Need of him.</l>
                   <l>This he gives you,</l>
                   <l>'Tis the Spirit's glimm'ring Beam.</l>
@@ -3659,7 +3660,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Deareſt Saviour, help thy Servant</l>
                   <l>To proclaim thy wond'rous Love;</l>
                   <l>
-                     <pb n="73" facs="tcp:013507_0072_0F90A362227A0108"/>Pour thy Grace upon this People,</l>
+                     <pb n="73" facs="unknown:013507_0072_0F90A362227A0108"/>Pour thy Grace upon this People,</l>
                   <l>That thy Truth they may approve,</l>
                   <l>Bleſs, O bleſs them,</l>
                   <l>From thy ſhining Courts above.</l>
@@ -3709,7 +3710,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Ye bleſſed of my Father come,</l>
                   <l>Come to my Father's Kingdom home.</l>
                   <l>
-                     <pb n="74" facs="tcp:013507_0073_0F90A36303EBEBE8"/>Before the Univerſe was rear'd,</l>
+                     <pb n="74" facs="unknown:013507_0073_0F90A36303EBEBE8"/>Before the Univerſe was rear'd,</l>
                   <l>For you the Kingdom was prepar'd;</l>
                   <l>For you, for you, for you, for you,</l>
                   <l>For you the Kingdom was prepar'd.</l>
@@ -3756,7 +3757,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Stand before the Son of Man.</l>
                </lg>
                <lg n="4">
-                  <pb n="75" facs="tcp:013507_0074_0F90A363DCE55E90"/>
+                  <pb n="75" facs="unknown:013507_0074_0F90A363DCE55E90"/>
                   <head>4</head>
                   <l>Saints who love him view his glory,</l>
                   <l>Shining in his bruiſed Face;</l>
@@ -3806,7 +3807,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Glory decks the Saviour's Face.</l>
                </lg>
                <lg n="3">
-                  <pb n="76" facs="tcp:013507_0075_0F90A364A2141F00"/>
+                  <pb n="76" facs="unknown:013507_0075_0F90A364A2141F00"/>
                   <head>3</head>
                   <l>Deſcending on his azure Throne,</l>
                   <l>He claims the Kingdoms as his own:</l>
@@ -3857,7 +3858,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Thine the Trump that wakes the dead.</l>
                </lg>
                <lg n="3">
-                  <pb n="77" facs="tcp:013507_0076_0F90A3682A2DD230"/>
+                  <pb n="77" facs="unknown:013507_0076_0F90A3682A2DD230"/>
                   <head>3</head>
                   <l>Come to Judgment, come away!</l>
                   <l>Lingering Man, no longer ſtay;</l>
@@ -3912,7 +3913,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Are to our Jeſus giv'n. Lift up, &amp;c.</l>
                </lg>
                <lg n="4">
-                  <pb n="78" facs="tcp:013507_0077_0F90A3698E7310F0"/>
+                  <pb n="78" facs="unknown:013507_0077_0F90A3698E7310F0"/>
                   <head>4</head>
                   <l>He ſits at God's Right-Hand</l>
                   <l>Till all his Foes ſubmit,</l>
@@ -3964,7 +3965,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>His Back with Laſhes all was tore,</l>
                   <l>Till one the Bones might ſee;</l>
                   <l>
-                     <pb n="79" facs="tcp:013507_0078_0F90A36B1BBE8230"/>Mocking, they puſh'd him here and there,</l>
+                     <pb n="79" facs="unknown:013507_0078_0F90A36B1BBE8230"/>Mocking, they puſh'd him here and there,</l>
                   <l>Marking his Way with Blood and Tear,</l>
                   <l>Preſs'd by the heavy Tree.</l>
                </lg>
@@ -4017,7 +4018,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Great and ſmall before him ſtand:</l>
                   <l>Not one Soul forgot or miſſing:</l>
                   <l>
-                     <pb n="80" facs="tcp:013507_0079_0F90A36B3336C760"/>None his Orders countermand,</l>
+                     <pb n="80" facs="unknown:013507_0079_0F90A36B3336C760"/>None his Orders countermand,</l>
                   <l>All ſtand waiting, all ſtand waiting, all ſtand waiting</l>
                   <l>For their laſt deciſive Doom.</l>
                </lg>
@@ -4067,7 +4068,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Hallelujah to the Lamb.</l>
                </lg>
                <sp>
-                  <pb n="81" facs="tcp:013507_0080_0F90A36BF397E6A8"/>
+                  <pb n="81" facs="unknown:013507_0080_0F90A36BF397E6A8"/>
                   <speaker>EPIPHONEMA.</speaker>
                   <l>O ye Sinners, now give Glory</l>
                   <l>To the great eternal Three!</l>
@@ -4116,7 +4117,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Far from theſe dark Regions fled.</l>
                </lg>
                <lg n="6">
-                  <pb n="82" facs="tcp:013507_0081_0F90A36CA80ECA90"/>
+                  <pb n="82" facs="unknown:013507_0081_0F90A36CA80ECA90"/>
                   <head>6</head>
                   <l>Firſt the ſacred Place behold, halle, &amp;c.</l>
                   <l>That did our bleſſed Lord infold;</l>
@@ -4167,7 +4168,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>To the conquering King of Kings.</l>
                </lg>
                <lg n="2">
-                  <pb n="83" facs="tcp:013507_0082_0F90A36D69F50338"/>
+                  <pb n="83" facs="unknown:013507_0082_0F90A36D69F50338"/>
                   <head>3</head>
                   <l>Countleſs Bands of Angels glorious,</l>
                   <l>Cloath'd in bright aetherial blue;</l>
@@ -4214,7 +4215,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="81" type="hymn">
-               <pb n="84" facs="tcp:013507_0083_0F90A36EC20BD590"/>
+               <pb n="84" facs="unknown:013507_0083_0F90A36EC20BD590"/>
                <head>
                   <hi>HYMN LXXXI.</hi> An Invitation.</head>
                <lg n="1">
@@ -4264,7 +4265,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="82" type="hymn">
-               <pb n="85" facs="tcp:013507_0084_0F90A36F5895B380"/>
+               <pb n="85" facs="unknown:013507_0084_0F90A36F5895B380"/>
                <head>
                   <hi>HYMN LXXXII.</hi> For true Chriſtians.</head>
                <lg n="1">
@@ -4319,7 +4320,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Our Saviour thou ſhalt be. &amp;c.</l>
                </lg>
                <lg n="8">
-                  <pb n="86" facs="tcp:013507_0085_0F90A370EB7219D0"/>
+                  <pb n="86" facs="unknown:013507_0085_0F90A370EB7219D0"/>
                   <head>8</head>
                   <l>No Law, nor Sin, nor Hell nor Death</l>
                   <l>Shall us from thee divide;</l>
@@ -4372,7 +4373,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Anſwer thine own Bride and Spirit,</l>
                   <l>Haſten, Lord, the gen'ral Doom,</l>
                   <l>
-                     <pb n="87" facs="tcp:013507_0086_0F90A37123FFDDB8"/>The New Heav'n and Earth t' inherit,</l>
+                     <pb n="87" facs="unknown:013507_0086_0F90A37123FFDDB8"/>The New Heav'n and Earth t' inherit,</l>
                   <l>Take thy pining Exhiles home:</l>
                   <l>All Creation, &amp;c.</l>
                   <l>Travails! Groans! and bids thee come.</l>
@@ -4422,7 +4423,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>See the purple Banner flying,</l>
                   <l>Hear the Judgment-Chariot roll;</l>
                   <l>
-                     <pb n="88" facs="tcp:013507_0087_0F90A373B695ADB8"/>Hear the Saviour's Words of Mercy:</l>
+                     <pb n="88" facs="unknown:013507_0087_0F90A373B695ADB8"/>Hear the Saviour's Words of Mercy:</l>
                   <l>Come, ye ranſom'd Heav'n-born Souls.</l>
                   <l>Judge theſe Nations, &amp;c.</l>
                   <l>Now they all ſhall feel my Pow'r.</l>
@@ -4470,7 +4471,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>And bid me ſin no more.</l>
                </lg>
                <lg n="2">
-                  <pb n="89" facs="tcp:013507_0088_0F90A3752A255E20"/>
+                  <pb n="89" facs="unknown:013507_0088_0F90A3752A255E20"/>
                   <head>2</head>
                   <l>Though my Sins as Mountains riſe,</l>
                   <l>And ſwell and reach to Heav'n,</l>
@@ -4519,7 +4520,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>SON of God, if thy free Grace</l>
                   <l>Again hath rais'd me up,</l>
                   <l>
-                     <pb n="90" facs="tcp:013507_0089_0F90A375A1E4E528"/>Call'd me ſtill to ſeek thy Face,</l>
+                     <pb n="90" facs="unknown:013507_0089_0F90A375A1E4E528"/>Call'd me ſtill to ſeek thy Face,</l>
                   <l>And giv'n me back my Hope;</l>
                   <l>Still thy timely Help afford,</l>
                   <l>And all thy Loving-kindneſs ſhew:</l>
@@ -4568,7 +4569,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="87" type="hymn">
-               <pb n="91" facs="tcp:013507_0090_0F90A376963800E8"/>
+               <pb n="91" facs="unknown:013507_0090_0F90A376963800E8"/>
                <head>
                   <hi>HYMN LXXXVII.</hi> The all-ſufficient Saviour.</head>
                <lg n="1">
@@ -4626,7 +4627,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>And their Lives to Ranſom he gave up his own.</l>
                </lg>
                <lg n="10">
-                  <pb n="92" facs="tcp:013507_0091_0F90A37723C9C610"/>
+                  <pb n="92" facs="unknown:013507_0091_0F90A37723C9C610"/>
                   <head>10</head>
                   <l>He came from above</l>
                   <l>The Curſe to remove,</l>
@@ -4685,7 +4686,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>In vain, dear Saviour, here we meet,</l>
                   <l>Except thy Face we ſee:</l>
                   <l>
-                     <pb n="93" facs="tcp:013507_0092_0F90A377E1FB14D8"/>Thy Preſence makes a Heav'n moſt ſweet,</l>
+                     <pb n="93" facs="unknown:013507_0092_0F90A377E1FB14D8"/>Thy Preſence makes a Heav'n moſt ſweet,</l>
                   <l>Where e'er we meet with Thee.</l>
                </lg>
                <lg n="4">
@@ -4742,7 +4743,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Redeeming Love admire.</l>
                </lg>
                <lg n="5">
-                  <pb n="94" facs="tcp:013507_0093_0F90A378F5A8D100"/>
+                  <pb n="94" facs="unknown:013507_0093_0F90A378F5A8D100"/>
                   <head>5</head>
                   <l>All Sin and Sorrow from each Heart,</l>
                   <l>Shall then forever fly:</l>
@@ -4801,7 +4802,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Hallelujah!</l>
                </lg>
                <lg n="6">
-                  <pb n="95" facs="tcp:013507_0094_0F90A3799DF80EE0"/>
+                  <pb n="95" facs="unknown:013507_0094_0F90A3799DF80EE0"/>
                   <head>6</head>
                   <l>Oft in Kedar's Tents I try'd,</l>
                   <l>When his lovely Face was hid,</l>
@@ -4858,7 +4859,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="92" type="hymn">
-               <pb n="96" facs="tcp:013507_0095_0F90A37A2B5308B0"/>
+               <pb n="96" facs="unknown:013507_0095_0F90A37A2B5308B0"/>
                <head>
                   <hi>HYMN XCII.</hi> Publick Worſhip.</head>
                <lg n="1">
@@ -4907,7 +4908,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Are now returning Home.</l>
                </lg>
                <lg n="3">
-                  <pb n="97" facs="tcp:013507_0096_0F90A37BAE4B8448"/>
+                  <pb n="97" facs="unknown:013507_0096_0F90A37BAE4B8448"/>
                   <head>3</head>
                   <l>Is not your native Country here</l>
                   <l>The Place of your Abode?</l>
@@ -4961,7 +4962,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>That whole amazing Load.</l>
                </lg>
                <lg n="3">
-                  <pb n="98" facs="tcp:013507_0097_0F90A37C636EB1A8"/>
+                  <pb n="98" facs="unknown:013507_0097_0F90A37C636EB1A8"/>
                   <head>3</head>
                   <l>Alas! I'm daily apt to ſtray,</l>
                   <l>How ſhall I heav'n-ward make?</l>
@@ -5018,7 +5019,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Works both to will and do.</l>
                </lg>
                <lg n="11">
-                  <pb n="99" facs="tcp:013507_0098_0F90A37EAF01B100"/>
+                  <pb n="99" facs="unknown:013507_0098_0F90A37EAF01B100"/>
                   <head>11</head>
                   <l>How ſhall my Maladies be heal'd.</l>
                   <l>So ſore moleſting me?</l>
@@ -5072,7 +5073,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Farewell poor World, Heav'n's my deſire.</l>
                </lg>
                <lg n="5">
-                  <pb n="100" facs="tcp:013507_0099_0F90A2FF22A42A00"/>
+                  <pb n="100" facs="unknown:013507_0099_0F90A2FF22A42A00"/>
                   <head>5</head>
                   <l>Stay, ſtay, ſaid Earth, whither fond one?</l>
                   <l>Here's a fair World, what would'ſt thou have</l>
@@ -5127,7 +5128,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Poor helpleſs Sinners ſtill.</l>
                </lg>
                <lg n="5">
-                  <pb n="101" facs="tcp:013507_0100_0F90A300B8763D28"/>
+                  <pb n="101" facs="unknown:013507_0100_0F90A300B8763D28"/>
                   <head>5</head>
                   <l>'Tis Grace each Day that feeds our Souls;</l>
                   <l>Grace keeps us inly poor;</l>
@@ -5182,7 +5183,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>For ſuch unworthy Worms as we.</l>
                </lg>
                <lg n="6">
-                  <pb n="102" facs="tcp:013507_0101_0F90A301621CC1F0"/>
+                  <pb n="102" facs="unknown:013507_0101_0F90A301621CC1F0"/>
                   <head>6</head>
                   <l>Then let us taſte our Saviour's Love,</l>
                   <l>Come Faith, and feed upon the Lord:</l>
@@ -5236,7 +5237,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>See! from his Head, his Hands, his Feet,</l>
                   <l>Sorrow and Grief flow mingling down;</l>
                   <l>
-                     <pb n="103" facs="tcp:013507_0102_0F90A302209070E8"/>Did e'er ſuch Love, ſuch Sorrow meet,</l>
+                     <pb n="103" facs="unknown:013507_0102_0F90A302209070E8"/>Did e'er ſuch Love, ſuch Sorrow meet,</l>
                   <l>Or Thorns compoſe ſo bright a Crown.</l>
                </lg>
                <lg n="3">
@@ -5291,7 +5292,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Which never hath an end.</l>
                </lg>
                <lg n="6">
-                  <pb n="104" facs="tcp:013507_0103_0F90A3042B921938"/>
+                  <pb n="104" facs="unknown:013507_0103_0F90A3042B921938"/>
                   <head>6</head>
                   <l>There Hallelujahs to the Lamb</l>
                   <l>No period will know;</l>
@@ -5345,7 +5346,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>In drinking then remember me.</l>
                </lg>
                <lg n="6">
-                  <pb n="105" facs="tcp:013507_0104_0F90A305AC12A378"/>
+                  <pb n="105" facs="unknown:013507_0104_0F90A305AC12A378"/>
                   <head>6</head>
                   <l>See here the Tree of Life with Fruit,</l>
                   <l>And Leaves which heal and ſtrength recruit;</l>
@@ -5407,7 +5408,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="103" type="hymn">
-               <pb n="106" facs="tcp:013507_0105_0F90A30731B2DEB0"/>
+               <pb n="106" facs="unknown:013507_0105_0F90A30731B2DEB0"/>
                <head>
                   <hi>HYMN CIII.</hi> Divine Love making a Feaſt, and calling in the Gueſts.</head>
                <lg n="1">
@@ -5461,7 +5462,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="104" type="hymn">
-               <pb n="107" facs="tcp:013507_0106_0F90A3076CB91CA8"/>
+               <pb n="107" facs="unknown:013507_0106_0F90A3076CB91CA8"/>
                <head>
                   <hi>HYMN CIV.</hi> For me to die is Gain. <hi>Phil. 1.21.</hi>
                </head>
@@ -5525,7 +5526,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="105" type="hymn">
-               <pb n="108" facs="tcp:013507_0107_0F90A308255CF8D0"/>
+               <pb n="108" facs="unknown:013507_0107_0F90A308255CF8D0"/>
                <head>
                   <hi>HYMN CV.</hi> Luke <hi>2.8,—15.</hi>
                </head>
@@ -5573,7 +5574,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="106" type="hymn">
-               <pb n="109" facs="tcp:013507_0108_0F90A308EC94C3F8"/>
+               <pb n="109" facs="unknown:013507_0108_0F90A308EC94C3F8"/>
                <head>
                   <hi>HYMN CVI. MARRIAGE</hi> HYMN.</head>
                <lg n="1">
@@ -5628,7 +5629,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>Roars a loud Onſet to the gaping Waters Quick to devour them.</l>
                </lg>
                <lg n="3">
-                  <pb n="110" facs="tcp:013507_0109_0F90A309ADEE31A8"/>
+                  <pb n="110" facs="unknown:013507_0109_0F90A309ADEE31A8"/>
                   <head>III.</head>
                   <l>Such ſhall the Noiſe be, and the wild Diſorder,</l>
                   <l>(If Things Eternal may be like theſe Earthly)</l>
@@ -5680,7 +5681,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="108" type="hymn">
-               <pb n="111" facs="tcp:013507_0110_0F90A30B53E51FD8"/>
+               <pb n="111" facs="unknown:013507_0110_0F90A30B53E51FD8"/>
                <head>
                   <hi>HYMN CVIII.</hi> Life and Eternity.</head>
                <lg n="1">
@@ -5734,7 +5735,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                </lg>
             </div>
             <div n="109" type="hymn">
-               <pb n="112" facs="tcp:013507_0111_0F90A30BEB1459D0"/>
+               <pb n="112" facs="unknown:013507_0111_0F90A30BEB1459D0"/>
                <head>
                   <hi>HYMN CIX.</hi> Death and Glory.</head>
                <lg n="1">
@@ -5791,7 +5792,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   <l>And Saints in Earth and Heaven.</l>
                </lg>
                <lg>
-                  <pb n="113" facs="tcp:013507_0112_0F90A30D73EB2728"/>
+                  <pb n="113" facs="unknown:013507_0112_0F90A30D73EB2728"/>
                   <l>PRAISE GOD from whom all Bleſſings flow,</l>
                   <l>Praiſe him all Creatures here below,</l>
                   <l>Praiſe him above, ye heav'nly Hoſt,</l>
@@ -5835,7 +5836,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
             <p>There may be other Miſtakes which have eſcaped my Eye; which the critical Reader is deſired to over<g ref="char:EOLhyphen"/>look.</p>
          </div>
          <div type="table_of_contents">
-            <pb n="114" facs="tcp:013507_0113_0F90A30E20250CB8"/>
+            <pb n="114" facs="unknown:013507_0113_0F90A30E20250CB8"/>
             <head>A TABLE OF CONTENTS.</head>
             <p>
                <table>
@@ -5941,7 +5942,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                      <cell>Page 81</cell>
                      <cell>Hymn 84</cell>
                   </row>
-                  <pb n="115" facs="tcp:013507_0114_0F90A30F9523D998"/>
+                  <pb n="115" facs="unknown:013507_0114_0F90A30F9523D998"/>
                   <row>
                      <cell>Come thou happy Morn ſo glorious</cell>
                      <cell>Hymn 81</cell>
@@ -6102,7 +6103,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                   </row>
                </table>
                <table>
-                  <pb n="116" facs="tcp:013507_0115_0F90A30FAD6BAB98"/>
+                  <pb n="116" facs="unknown:013507_0115_0F90A30FAD6BAB98"/>
                   <head>L.</head>
                   <row>
                      <cell>Lord I confeſs my Sin is great,</cell>
@@ -6269,7 +6270,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                      <cell>Hymn 41</cell>
                      <cell>Page 44</cell>
                   </row>
-                  <pb n="117" facs="tcp:013507_0116_0F90A31102E5BEB8"/>
+                  <pb n="117" facs="unknown:013507_0116_0F90A31102E5BEB8"/>
                   <row>
                      <cell>Son of God, if thy free Grace</cell>
                      <cell>Hymn 86</cell>
@@ -6441,7 +6442,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
             </p>
          </div>
          <div type="poem">
-            <pb n="118" facs="tcp:013507_0117_0F90A3112AE98110"/>
+            <pb n="118" facs="unknown:013507_0117_0F90A3112AE98110"/>
             <head>
                <hi>The UNKNOWN WORLD.</hi> Verſes occaſioned by hearing a Paſs-Bell.</head>
             <lg>
@@ -6493,7 +6494,7 @@ to God, and deſtructive to the Kingdom of Satan. And it being a good Work, I am
                <l>To diſtant worlds we know not where.</l>
             </lg>
             <lg>
-               <pb n="119" facs="tcp:013507_0118_0F90A311E88759D8"/>
+               <pb n="119" facs="unknown:013507_0118_0F90A311E88759D8"/>
                <l>Swift flies the ſoul, perhaps 'tis gone<g ref="char:punc">▪</g>
                </l>
                <l>A thouſand leagues beyond the ſun;</l>
